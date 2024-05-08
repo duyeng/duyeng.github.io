@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Do you want to know more about me?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Duyen Nguyen.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Currently work as a software engineer.
+- Obtained my BSc in Information Technology from the VNU - Ho Chi Minh City University of Natural Sciences.
+- Grew up in Binh Dinh province, Vietnam; moved to Ho Chi Minh City for undergrade school; crossed the border to Tokyo in 2019 for working; returned back to Vietnam in 2020.
